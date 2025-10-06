@@ -1,8 +1,4 @@
----
-title: T Strings Tutorial
-marimo-version: 0.14.17
-width: medium
----
+# Работа с t-strings в Python 3.14 🐍
 
 ```python {.marimo hide_code="true"}
 import marimo as mo
